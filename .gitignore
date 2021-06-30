@@ -37,3 +37,6 @@ config/*
 
 #vendor folder
 vendor/*
+
+#site settings
+web/.htaccess
